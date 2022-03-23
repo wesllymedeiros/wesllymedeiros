@@ -2,6 +2,7 @@
   <h2 align="left"> Olá, eu sou o Weslly! Desenvolvedor Front-End </h2>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300px">
 </div>
+
 <div align="left"><br>
   <a href="https://github.com/wesllymedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllymedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
