@@ -1,7 +1,8 @@
 <div>
-  <h2 align="center"> Olá, eu sou o Weslly! Desenvolvedor Front-End </h2>
+  <h2 align="left"> Olá, eu sou o Weslly! Desenvolvedor Front-End </h2>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300px">
 </div>
-<div align="center"><br>
+<div align="left"><br>
   <a href="https://github.com/wesllymedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllymedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!--
@@ -9,7 +10,7 @@
 -->
 </div>
   
-<div style="display: inline_block" align="center" ><br>
+<div style="display: inline_block" align="left" ><br>
   
   <img align="center" alt="Weslly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weslly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +20,7 @@
  
   #
   
-<div align="center" > 
+<div align="left" > 
   
   <a href="https://instagram.com/wesllyfylipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wesllymedeirosc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
