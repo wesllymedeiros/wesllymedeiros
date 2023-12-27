@@ -1,5 +1,5 @@
 <div>
-  <h2 align="left"> Hi, I'm Wesley! Product Designer and Software Engineering Student </h2>
+  <h2 align="left"> Hi, I'm Weslly! Product Designer and Software Engineering Student </h2>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300px">
 </div>
 
